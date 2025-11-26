@@ -1,4 +1,4 @@
-# ❄️ Situação 1 — Sistema de Climatização (HVAC)  
+# ❄️ Situação 3 — Sistema de Climatização (HVAC)  
 Projeto Supervisório no BluePlant
 
 Este projeto apresenta o desenvolvimento de um sistema supervisório para um
