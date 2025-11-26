@@ -1,4 +1,7 @@
-assets/SistenaSupervisorio.png
+<p align="center">
+  <img src="assets/SistenaSupervisorio.png" width="100%" alt="Banner do Repositório">
+</p>
+
 
 # Sistemas-Supervisorios_BluePlant-exemplos
 
