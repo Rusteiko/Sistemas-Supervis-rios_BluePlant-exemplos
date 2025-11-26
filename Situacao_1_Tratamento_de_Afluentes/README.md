@@ -1,4 +1,4 @@
-# 💧 Situação 2 — Estação de Tratamento de Efluentes  
+# 💧 Situação 1 — Estação de Tratamento de Efluentes  
 Projeto Supervisório no BluePlant
 
 Este projeto apresenta o desenvolvimento de um sistema supervisório completo para a
