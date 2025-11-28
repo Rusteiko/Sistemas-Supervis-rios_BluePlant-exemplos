@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="TratamentoAfluentes.png" width="100%" alt="Banner do Repositório">
+</p>
 # 💧 Situação 1 — Estação de Tratamento de Efluentes  
 Projeto Supervisório no BluePlant
 
