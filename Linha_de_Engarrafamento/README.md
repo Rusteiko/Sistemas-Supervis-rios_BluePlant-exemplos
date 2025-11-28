@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Envazamento.png" width="100%" alt="Banner do Repositório">
+</p>
 # 🍾 Projeto — Linha de Engarrafamento
 Sistema Supervisório desenvolvido no BluePlant
 
