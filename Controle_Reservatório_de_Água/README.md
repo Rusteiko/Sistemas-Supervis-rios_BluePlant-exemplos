@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ReservatorioAgua.png" width="100%" alt="Banner do Repositório">
+</p>
 # 💧 Projeto — Controle de Reservatório de Água  
 Sistema Supervisório desenvolvido no BluePlant
 
