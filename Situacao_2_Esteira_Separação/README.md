@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Esteira.png" width="100%" alt="Banner do Repositório">
+</p>
 # 📦 Situação 2 — Esteira Transportadora de Peças  
 Projeto Supervisório no BluePlant
 
